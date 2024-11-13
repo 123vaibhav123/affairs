@@ -1,0 +1,2 @@
+# affairs
+Current affairs
